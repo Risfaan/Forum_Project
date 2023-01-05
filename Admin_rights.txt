@@ -1,0 +1,19 @@
+=================================Admin===========================
+1.Add , Remove Admins----------------------->Admin Table
+2.Remove Student---------------------------->User table
+3.Remove Question--------------------------->Question===>Sem Wise,Sub Wise
+4.Add Sem,Remove Sem------------------------>Sem Master //sem(1-6)
+5.Add Sub,Remove Subject-------------------->sem_sub Table //subjects of sem
+6.Add , Remove Course----------------------->Course //Courses(BCA BBITM PGDCA)
+
+Structure of Admin table :
+		Uid,username,passsword,phonenumber,email,photo,sem,course
+		
+Structure of users table :
+		Uid,username,passsword,phonenumber,email,photo
+		
+Structure of Question table :
+		qid,q_creater,que,q_time
+
+Structure of SemMaster : SemisterRelated Data(Related to )
+		

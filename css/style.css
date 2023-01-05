@@ -1,0 +1,44 @@
+img{
+				img{ height:100px;
+			width:100px;
+			object-fit:contain;
+			    
+			}
+#div1{
+	background-color: red;
+}
+
+#div2{
+	background-color: green;
+}
+
+#div3{
+	background-color: blue;
+}
+
+#header_img{
+	padding:0px;
+	margin-top:-20px;
+}
+body { 
+   
+    
+    background-attachment: fixed;
+}
+#menu_op{
+	opacity: 0.9;
+	
+}
+#h1
+{
+	font-color:white;
+}
+@media screen and (max-width:768px)
+{
+				h1{font-size:25px;}
+				h2{font-size:22px;}
+				h3{font-size:22px;}
+				h4{font-size:222px;}
+				h5{font-size:20px;}
+				h6{font-size:18px;}
+}
