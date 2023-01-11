@@ -1,6 +1,8 @@
 # Forum_Project
 Dynamic University Forum
 
+Please read 1- Documentation.pdf file for detailed information including screenshots.
+
 University Forum Website in PHP
 
 Objective: 	Develop “Forum”, a solution for college students where students can interact, Share materials and chat with each other. Each student gets its semester wise classroom.
